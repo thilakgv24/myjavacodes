@@ -1,4 +1,4 @@
-package com.thilak.practice;
+package com.thilak.practiceninja;
 
 public class Polynomials {
 

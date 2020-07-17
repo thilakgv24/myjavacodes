@@ -1,4 +1,4 @@
-package com.thilak.practice;
+package com.thilak.practiceninja;
 
 import java.util.Arrays;
 
