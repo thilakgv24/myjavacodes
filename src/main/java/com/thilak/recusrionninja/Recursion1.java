@@ -8,7 +8,7 @@ public class Recursion1 {
 	}
 
 	
-	/*public static int fact(int n) {
+	public static int fact(int n) {
 		System.out.println(n);
 		if(n ==0)
 			return 1;
@@ -16,7 +16,7 @@ public class Recursion1 {
 		int outPut = n * smllOutput;
 		System.out.println(n);
 		return outPut;
-	}*/
+	}
 	
 	/*public static int fact(int n) {
 		if(n == 0)
@@ -30,7 +30,7 @@ public class Recursion1 {
 		
 	}*/
 	
-	public static int fact(int n) {
+/*	public static int fact(int n) {
 		int output;
 		System.out.println(165/10);
 		
@@ -40,5 +40,5 @@ public class Recursion1 {
 		output =  n * fact(n-1);
 	}
 	return output;
-	}
+	}*/
 }
